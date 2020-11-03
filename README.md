@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey you 👋
+Welcome to my profile :)
 
 <!--
 **VMehta99/VMehta99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
